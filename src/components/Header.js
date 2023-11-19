@@ -10,7 +10,7 @@ const Header = () => {
       {}
       <div className="shopping-cart">
         <FontAwesomeIcon icon={faShoppingCart} />
-        <span className="cart-length">{Object.keys(cart).length}</span>
+        <span className="cart-length">0</span>
       </div>
     </div>
   );
