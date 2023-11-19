@@ -1,3 +1,4 @@
+import "./Product.css";
 const Product = () => (
   <div className="product-card">
     <div className="product-image">
