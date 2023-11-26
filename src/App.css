@@ -56,6 +56,7 @@
   flex-wrap: wrap;
   flex-direction: row;
   padding: 2rem;
+  width:90vw;
 }
 
 .product {
